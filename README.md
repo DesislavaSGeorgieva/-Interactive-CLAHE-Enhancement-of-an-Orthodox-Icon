@@ -116,8 +116,9 @@ The enhanced image is updated immediately, allowing direct comparison with the o
 | *(Insert screenshot)* | *(Insert screenshot)* |
 
 ```
-## Repository Structure
+---
 
+Repository Structure
 .
 ├── images/
 │   ├── icon.jpg
@@ -127,8 +128,8 @@ The enhanced image is updated immediately, allowing direct comparison with the o
 ├── requirements.txt
 ├── LICENSE
 └── README.md
-```
 
+---
 ---
 
 ## Study Image
