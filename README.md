@@ -88,7 +88,7 @@ The comparison below illustrates the visual effect obtained after applying CLAHE
 
 <p align="center">
 
-<img src="before_after.jpg" width="900">
+<img src="before_after.png" width="900">
 
 </p>
 
