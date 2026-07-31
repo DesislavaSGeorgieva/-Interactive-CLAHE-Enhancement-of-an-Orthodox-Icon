@@ -116,7 +116,6 @@ The enhanced image is updated immediately, allowing direct comparison with the o
 | *(Insert screenshot)* | *(Insert screenshot)* |
 
 ```
----
 
 Repository Structure
 .
@@ -129,7 +128,6 @@ Repository Structure
 ├── LICENSE
 └── README.md
 
----
 ---
 
 ## Study Image
