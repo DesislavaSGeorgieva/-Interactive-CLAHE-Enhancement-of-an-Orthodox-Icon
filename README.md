@@ -111,26 +111,49 @@ The enhanced image is updated immediately, allowing direct comparison with the o
 
 ## Example Result
 
-| Original Image | Enhanced Image |
-|---------------|----------------|
-| *(Insert screenshot)* | *(Insert screenshot)* |
+The comparison below illustrates the effect of applying CLAHE to the Lightness channel in the LAB colour space.
 
-```
+| Original Image | Enhanced Image |
+| :-------------: | :------------: |
+| ![Original](images/original.png) | ![Enhanced](images/enhanced.png) |
+
+---
 
 ## Repository Structure
 
 ```text
 .
-├── images/
-│   ├── icon.jpg
-│   ├── before_after.png
-│   └── clahe_demo.gif
+├── README.md
 ├── Interactive_CLAHE_Orthodox_Icon.ipynb
 ├── requirements.txt
 ├── LICENSE
-└── README.md
+└── images
+    ├── icon.jpg
+    ├── original.png
+    ├── enhanced.png
+    ├── before_after.png
+    └── clahe_demo.gif
 ```
 
+---
+
+## Study Image
+
+The notebook uses a nineteenth-century Orthodox icon as a case study.
+
+| Property | Description |
+|----------|-------------|
+| **Title** | *Saint John the Baptist* |
+| **Artist** | Ivan Dospevski |
+| **Year** | 1867 |
+| **Dimensions** | 122 × 83 cm |
+| **Current Location** | Church of St. Demetrius, Kyustendil, Bulgaria |
+
+The photograph used in this project was taken by the author during doctoral research in Art History.
+
+Permission to photograph the icon was granted by the local representatives of the Bulgarian Orthodox Church.
+
+The image is included exclusively for educational and scientific purposes.
 ---
 
 ## Study Image
