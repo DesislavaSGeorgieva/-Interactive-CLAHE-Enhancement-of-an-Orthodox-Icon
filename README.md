@@ -105,8 +105,6 @@ The enhanced image is updated immediately, allowing direct comparison with the o
 <img src="images/clahe_demo.gif" width="750">
 
 </p>
-``
-
 ```
 ## Repository Structure
 
