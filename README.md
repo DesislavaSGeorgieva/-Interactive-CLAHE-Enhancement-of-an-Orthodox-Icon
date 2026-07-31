@@ -104,8 +104,6 @@ The enhanced image is updated immediately, allowing direct comparison with the o
 </p>
 ```
 
----
-
 ## Example Result
 
 | Original Image | Enhanced Image |
