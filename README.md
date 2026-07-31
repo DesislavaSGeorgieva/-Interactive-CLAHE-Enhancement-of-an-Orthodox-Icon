@@ -296,7 +296,7 @@ Although developed as an educational project, the presented workflow can be appl
 If you use this repository in academic work, please cite it as:
 
 ```text
-Desislava [Surname].
+Desislava S. Georgieva.
 
 Interactive CLAHE Enhancement of an Orthodox Icon:
 A Jupyter Notebook for Computer Vision and Digital Art History.
@@ -328,7 +328,7 @@ This notebook was developed as part of the author's continuing research in Digit
 
 ## About the Author
 
-**Desislava [Surname]**
+**Desislava S. Georgieva**
 
 PhD in Art History
 
