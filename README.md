@@ -118,7 +118,6 @@ The enhanced image is updated immediately, allowing direct comparison with the o
 ```
 ## Repository Structure
 
-```text
 .
 ├── images/
 │   ├── icon.jpg
