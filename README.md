@@ -117,7 +117,9 @@ The enhanced image is updated immediately, allowing direct comparison with the o
 
 ```
 
-Repository Structure
+## Repository Structure
+
+```text
 .
 ├── images/
 │   ├── icon.jpg
@@ -127,6 +129,7 @@ Repository Structure
 ├── requirements.txt
 ├── LICENSE
 └── README.md
+```
 
 ---
 
