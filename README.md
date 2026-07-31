@@ -154,25 +154,6 @@ The photograph used in this project was taken by the author during doctoral rese
 Permission to photograph the icon was granted by the local representatives of the Bulgarian Orthodox Church.
 
 The image is included exclusively for educational and scientific purposes.
----
-
-## Study Image
-
-The notebook uses a nineteenth-century Orthodox icon as a case study.
-
-| Property             | Description                                   |
-| -------------------- | --------------------------------------------- |
-| **Title**            | *Saint John the Baptist*                      |
-| **Artist**           | Ivan Dospevski                                |
-| **Year**             | 1867                                          |
-| **Dimensions**       | 122 × 83 cm                                   |
-| **Current Location** | Church of St. Demetrius, Kyustendil, Bulgaria |
-
-The photograph used in this project was taken by the author during doctoral research in Art History.
-
-Permission to photograph the icon was granted by the local representatives of the Bulgarian Orthodox Church.
-
-The image is included exclusively for educational and scientific purposes.
 
 ---
 
