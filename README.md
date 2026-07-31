@@ -241,3 +241,125 @@ This notebook is intended to demonstrate:
 * practical applications of Computer Vision in Digital Art History.
 
 Although the project is introductory, the workflow reflects methods commonly used in digital image analysis and can serve as a starting point for more advanced research in cultural heritage imaging.
+
+---
+
+## Results
+
+The application of CLAHE significantly improves the local visibility of details while preserving the original colour relationships of the icon.
+
+The enhancement is particularly noticeable in:
+
+* inscriptions;
+* facial modelling;
+* garments and folds;
+* halos;
+* decorative elements;
+* local contrast in darker regions.
+
+The comparison below illustrates the visual improvement achieved by applying CLAHE to the Lightness channel in the LAB colour space.
+
+<p align="center">
+
+<img src="images/before_after.png" width="900">
+
+</p>
+
+---
+
+## Technologies
+
+* Python
+* OpenCV
+* NumPy
+* Matplotlib
+* Jupyter Notebook
+* ipywidgets
+
+---
+
+## Applications
+
+Although developed as an educational project, the presented workflow can be applied in several domains:
+
+* Digital Art History
+* Cultural Heritage Documentation
+* Museum Studies
+* Digital Humanities
+* Image Processing Education
+* Computer Vision Teaching
+
+---
+
+## Citation
+
+If you use this repository in academic work, please cite it as:
+
+```text
+Desislava [Surname].
+
+Interactive CLAHE Enhancement of an Orthodox Icon:
+A Jupyter Notebook for Computer Vision and Digital Art History.
+
+GitHub Repository.
+
+Zenodo DOI: (to be added after publication)
+```
+
+---
+
+## License
+
+This project is released under the MIT License.
+
+The notebook source code may be reused according to the terms of the license.
+
+The study photograph remains the intellectual property of the author.
+
+---
+
+## Acknowledgements
+
+The author gratefully acknowledges the permission granted by the local representatives of the Bulgarian Orthodox Church for photographing the icon used in this notebook.
+
+This notebook was developed as part of the author's continuing research in Digital Art History and Computer Vision.
+
+---
+
+## About the Author
+
+**Desislava [Surname]**
+
+PhD in Art History
+
+Research interests:
+
+* Digital Art History
+* Computer Vision
+* Machine Learning
+* Image Analysis
+* Orthodox Iconography
+* Cultural Heritage
+
+GitHub: *(add your profile link)*
+
+Zenodo: *(add your profile link after publication)*
+
+---
+
+## Future Development
+
+This notebook represents the first step in a broader research initiative exploring the application of Computer Vision techniques to Orthodox iconography and cultural heritage.
+
+Future projects will investigate additional image processing and analysis methods, including edge detection, colour analysis, texture analysis, feature extraction, and machine learning approaches for the study of artworks.
+
+---
+
+<p align="center">
+
+### ⭐ If you found this project interesting, consider giving it a star!
+
+Thank you for visiting this repository.
+
+</p>
+
