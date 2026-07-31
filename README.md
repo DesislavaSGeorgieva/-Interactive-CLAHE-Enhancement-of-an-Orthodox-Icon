@@ -88,7 +88,7 @@ The comparison below illustrates the visual effect obtained after applying CLAHE
 
 <p align="center">
 
-<img src="images/before_after.png" width="900">
+<img src="before_after.jpg" width="900">
 
 </p>
 
@@ -102,7 +102,7 @@ The comparison below illustrates the visual effect obtained after applying CLAHE
 ├── Interactive_CLAHE_Orthodox_Icon.ipynb
 ├── requirements.txt
 ├── LICENSE
-└── images
+└── 
     ├── icon.jpg
     ├── before_after.png
     └── clahe_demo.gif
