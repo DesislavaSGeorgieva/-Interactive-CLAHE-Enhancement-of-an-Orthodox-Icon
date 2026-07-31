@@ -58,8 +58,7 @@ The notebook combines theoretical explanations, practical implementation, intera
 
 ## Workflow
 
-```text
-                Upload Image
+       Upload Image
                       │
                       ▼
           Image Properties Inspection
@@ -85,8 +84,6 @@ The notebook combines theoretical explanations, practical implementation, intera
                       ▼
  Discussion • Conclusion • References
 ```
-
----
 
 ## Interactive Demonstration
 
@@ -118,7 +115,6 @@ The enhanced image is updated immediately, allowing direct comparison with the o
 ```
 ## Repository Structure
 
-```text
 .
 ├── images/
 │   ├── icon.jpg
@@ -129,8 +125,6 @@ The enhanced image is updated immediately, allowing direct comparison with the o
 ├── LICENSE
 └── README.md
 ```
-
----
 
 ## Study Image
 
@@ -207,8 +201,6 @@ Open:
 Interactive_CLAHE_Orthodox_Icon.ipynb
 ```
 
----
-
 ## Requirements
 
 The notebook was developed using Python 3 and requires the following packages:
@@ -240,8 +232,6 @@ This notebook is intended to demonstrate:
 * practical applications of Computer Vision in Digital Art History.
 
 Although the project is introductory, the workflow reflects methods commonly used in digital image analysis and can serve as a starting point for more advanced research in cultural heritage imaging.
-
----
 
 ---
 
@@ -306,8 +296,6 @@ GitHub Repository.
 
 Zenodo DOI: (to be added after publication)
 ```
-
----
 
 ## License
 
