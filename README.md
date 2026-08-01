@@ -335,7 +335,7 @@ Research interests:
 * Orthodox Iconography
 * Cultural Heritage
 
-GitHub: *(add your profile link)*
+GitHub: [*(add your profile link)*](https://github.com/DesislavaSGeorgieva)
 
 Zenodo: *(add your profile link after publication)*
 
