@@ -97,7 +97,6 @@ The notebook allows users to modify the two most important CLAHE parameters inte
 
 The enhanced image is updated immediately, allowing direct comparison with the original image.
 
-*(GIF demonstration will be added here.)*
 
 ```
 <p align="center">
