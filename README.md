@@ -296,7 +296,7 @@ A Jupyter Notebook for Computer Vision and Digital Art History.
 
 GitHub Repository.
 
-Zenodo DOI: (to be added after publication)
+Zenodo DOI: https://doi.org/10.5281/zenodo.21739682
 ```
 
 ---
