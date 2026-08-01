@@ -174,7 +174,7 @@ The notebook is organised into the following chapters:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/DesislavaSGeorgieva/Interactive-CLAHE-Enhancement-of-an-Orthodox-Icon.git
 ```
 
 Move into the project folder:
