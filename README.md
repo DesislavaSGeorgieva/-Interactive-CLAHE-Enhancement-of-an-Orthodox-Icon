@@ -98,15 +98,17 @@ The notebook allows users to modify the two most important CLAHE parameters inte
 The enhanced image is updated immediately, allowing direct comparison with the original image.
 
 
-```
+---
+
+
 
 <p align="center">
 
-<img src="images/before_after.png" width="750">
+<img src="images/clahe_demo.gif" width="750">
 
 </p>
 
-```
+---
 
 ## Repository Structure
 
