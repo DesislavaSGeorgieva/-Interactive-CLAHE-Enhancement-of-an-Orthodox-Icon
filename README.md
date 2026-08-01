@@ -99,12 +99,15 @@ The enhanced image is updated immediately, allowing direct comparison with the o
 
 
 ```
+
 <p align="center">
 
-<img src="images/clahe_demo.gif" width="750">
+<img src="images/before_after.png" width="750">
 
 </p>
+
 ```
+
 ## Repository Structure
 
 ```text
