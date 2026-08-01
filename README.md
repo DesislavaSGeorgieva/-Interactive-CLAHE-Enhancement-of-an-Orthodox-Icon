@@ -244,7 +244,6 @@ The application of CLAHE significantly improves the local visibility of details 
 
 The enhancement is particularly noticeable in:
 
-* inscriptions;
 * facial modelling;
 * garments and folds;
 * halos;
