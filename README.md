@@ -337,7 +337,9 @@ Research interests:
 
 GitHub: https://github.com/DesislavaSGeorgieva
 
-Zenodo: *(add your profile link after publication)*
+Zenodo: https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest
+
+ORCID: https://orcid.org/0009-0003-9186-7979
 
 ---
 
